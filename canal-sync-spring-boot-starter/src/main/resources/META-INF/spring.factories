@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.assionx.canal.autoconfig.CanalClientConfig,\
+  com.assionx.canal.autoconfig.CanalBeanFactory
