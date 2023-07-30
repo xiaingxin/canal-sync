@@ -22,4 +22,11 @@
     <packaging>pom</packaging>
 
 
+    <distributionManagement>
+        <repository>
+            <id>github</id>
+            <name>GitHub xiaingxin Apache Maven Packages</name>
+            <url>https://maven.pkg.github.com/xiaingxin/canal-sync</url>
+        </repository>
+    </distributionManagement>
 </project>
